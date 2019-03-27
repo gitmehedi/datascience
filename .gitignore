@@ -1,3 +1,4 @@
 .idea/
 *.ipynb_*
-tweepy/config/config.py
+*config/config.py
+*.pyc
